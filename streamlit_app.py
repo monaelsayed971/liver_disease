@@ -8,7 +8,7 @@ from PIL import Image
 st.title('Liver Disease Prediction')
 
 # Image
-img=Image.open('liver2.PNG')
+#img=Image.open('liver2.PNG')
 st.image(img, width=500,channels='RGB')
 
 # Load Cleaned Data
