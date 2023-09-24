@@ -9,7 +9,7 @@ st.title('Liver Disease Prediction')
 
 # Image
 #img=Image.open('liver2.PNG')
-st.image(img, width=500,channels='RGB')
+#st.image(img, width=500,channels='RGB')
 
 # Load Cleaned Data
 df = pd.read_csv('cleaned_data.csv')
