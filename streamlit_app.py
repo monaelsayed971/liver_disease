@@ -4,8 +4,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from PIL import Image
-from category_encoders import BinaryEncoder
-from sklearn.preprocessing import LabelEncoder
 # Title
 st.title('Liver Disease Prediction')
 
